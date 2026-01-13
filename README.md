@@ -1,6 +1,6 @@
-# WASM Hello World
+# WASM A+B
 
-A simple repository to test out the C and WebAssembly pairing.
+A simple A+B repository to test out the C and WebAssembly pairing.
 
 References:
 
