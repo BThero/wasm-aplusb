@@ -54,5 +54,8 @@ You have now reached the end! Best of luck on your WebAssembly exploration journ
 ## Useful References
 
 - [Zero to WASI with Clang 17](https://danielmangum.com/posts/wasm-wasi-clang-17/)
-- [wasi-sdk](https://github.com/WebAssembly/wasi-sdk)
+- [Embedding WebAssembly in Software](https://withbighair.com/webassembly/2024/12/14/Embedding-WebAssembly.html)
+- [Lessons learned from my first dive into WebAssembly](https://nullprogram.com/blog/2025/04/04/)
 - [MDN WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
+- [wasi-sdk](https://github.com/WebAssembly/wasi-sdk)
+- [wabt](https://github.com/WebAssembly/wabt)
